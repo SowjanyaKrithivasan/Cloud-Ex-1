@@ -1,7 +1,7 @@
 # EX NO: 1 Cloud-account-set-up-and-services
 
-## Name : AADHITHYAA L
-## Reg no: 212224220003
+## Name : SOWJANYA K
+## Reg no: 212223090023
 
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
