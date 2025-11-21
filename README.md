@@ -1,4 +1,4 @@
-# EX 1: Cloud-account-set-up-and-services
+# Ex 1: Cloud-account-set-up-and-services
 
 ## Name : SOWJANYA K
 ## Reg no: 212223090023
